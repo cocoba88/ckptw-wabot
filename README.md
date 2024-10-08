@@ -1,6 +1,6 @@
 # ckptw-wabot - WhatsApp Bot dengan @mengkodingan/ckptw
 
-> **Catatan:** Script ini telah diperbarui.
+> **Catatan:** Script ini telah diperbarui. Penambahan Doodstream Downloader.
 
 ## Gambaran Umum
 
